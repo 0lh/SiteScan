@@ -4,7 +4,7 @@ SiteScan是一款探测网站存活概率的工具,在对批量目标网站( 域
 
 #### 主要功能
 * * *
-- 现异步协程扫描
+- 使用异步协程批量快速扫描
 - 要结合响应码和其他因素判断网站存活概率
 - 结果保存CSV格式，分为html返回（url  |  status code | title） 和 json返回 （url  |  status code | JSON信息），二者皆无返回None
 
