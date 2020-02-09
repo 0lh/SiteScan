@@ -131,3 +131,50 @@ http://203.94.24.10:80 | 401 | None
 http://203.94.24.154:80 | 401 | Document Error: Unauthorized
 http://101.231.138.195:80 | 401 | You are not authorized to view this page
 http://42.81.61.55:10000 | 426 | None
+https://113.96.200.31:443 | 564 | None
+http://113.96.200.116:80 | 508 | None
+https://113.96.208.142:443 | 564 | None
+https://113.96.208.140:443 | 564 | None
+https://113.96.208.191:443 | 564 | None
+https://113.96.208.50:443 | 534 | None
+https://113.96.208.56:443 | 564 | None
+https://113.96.208.209:443 | 564 | None
+https://113.96.208.211:443 | 564 | None
+https://113.96.208.213:443 | 564 | None
+https://113.96.208.216:443 | 564 | None
+https://113.96.208.237:443 | 564 | None
+https://113.96.208.31:443 | 564 | None
+https://113.96.208.53:443 | 534 | None
+https://113.96.208.214:443 | 564 | None
+https://113.96.232.186:443 | 564 | None
+https://113.96.232.189:443 | 564 | None
+https://113.96.232.199:443 | 564 | None
+https://113.96.208.57:443 | 564 | None
+http://113.96.208.80:80 | 508 | None
+https://113.96.208.212:443 | 564 | None
+https://113.96.232.31:443 | 564 | None
+https://113.96.232.33:443 | 564 | None
+https://113.96.208.227:443 | 564 | None
+http://113.96.232.62:80 | 508 | None
+https://113.96.232.146:443 | 400 | None
+https://113.96.232.32:443 | 564 | None
+https://113.96.232.196:443 | 564 | None
+https://113.96.232.187:443 | 564 | None
+https://113.96.232.197:443 | 564 | None
+https://113.96.232.192:443 | 564 | None
+https://113.96.208.210:443 | 564 | None
+https://113.96.233.147:443 | 564 | None
+https://113.96.232.62:443 | 508 | None
+https://113.96.232.198:443 | 564 | None
+http://121.41.17.239:80 | 204 | None
+http://121.41.17.46:7778 | 426 | None
+http://171.90.249.2:80 | 401 | None
+http://203.94.24.10:80 | 401 | None
+http://42.81.61.55:10000 | 426 | None
+http://42.81.61.69:10000 | 426 | None
+https://42.81.61.76:443 | 411 | 411 Length Required
+http://43.243.234.100:10000 | 426 | None
+http://43.243.234.114:10000 | 426 | None
+https://43.243.234.88:443 | 443 | None
+https://43.243.234.47:443 | 401 | 401 - Unauthorized: Access is denied due to invalid credentials.
+https://43.243.234.46:443 | 401 | 401 - Unauthorized: Access is denied due to invalid credentials.

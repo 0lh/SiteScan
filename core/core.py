@@ -2,7 +2,6 @@ from lib.request import get_req
 from lib.common import get_random_url, save_result
 from lib.parse import parse_title
 from conf.config import SAVE_FILE_01, SAVE_FILE_02, SAVE_FILE_03, SAVE_FILE_04, SAVE_FILE_05
-from lib.logger import log
 
 
 async def judge_site_status(session, q):

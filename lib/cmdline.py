@@ -1,6 +1,6 @@
 import argparse
 import sys
-from conf.config import URLS_FILE, COROS_NUM
+
 
 
 def parse_args():

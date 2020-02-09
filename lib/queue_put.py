@@ -1,6 +1,4 @@
 import asyncio
-import click
-from conf.config import URLS_FILE
 
 q = asyncio.Queue()
 

@@ -1,0 +1,6 @@
+*.log
+*.txt
+logging_demo.py
+results
+logs
+data

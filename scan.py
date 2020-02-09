@@ -3,8 +3,8 @@ import asyncio
 import time
 from lib.cmdline import parse_args
 from lib.queue_put import queue_put, q
-from conf.config import COROS_NUM, URLS_FILE
-from core.core import judge_path_status
+from conf.config import COROS_NUM
+from core.core import judge_site_status
 
 
 async def main():
@@ -14,7 +14,7 @@ async def main():
     async with httpx.AsyncClient(verify=False) as client:  # 创建session
         tasks = []
         for _ in range(COROS_NUM):
-            task = judge_path_status(client, q)
+            task = judge_site_status(client, q)
             tasks.append(task)
         await asyncio.wait(tasks)
 
