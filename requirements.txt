@@ -1,0 +1,4 @@
+loguru
+aiofiles
+httpx
+bs4
