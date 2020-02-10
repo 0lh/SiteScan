@@ -22,4 +22,4 @@ async def main():
 if __name__ == '__main__':
     start_time = time.time()
     asyncio.run(main())
-    print(f'耗时: {time.time() - start_time}')
+    print(f'Cost time: {time.time() - start_time}')

@@ -1,6 +1,12 @@
 *.log
 *.txt
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
 logging_demo.py
-results
 logs
 data
+*.bak
+*$py.class
+venv/
