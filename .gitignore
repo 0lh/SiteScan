@@ -237,4 +237,6 @@ $RECYCLE.BIN/
 # custom
 logs/
 results/
-1.txt
+*.txt
+*.log
+*.db
