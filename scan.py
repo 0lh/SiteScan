@@ -9,7 +9,7 @@ from core.core import judge_site_status
 
 async def main():
     argv = parse_args()
-    urls_file = argv.urls
+    urls_file = argv.target
     queue_put(urls_file)
     async with httpx.AsyncClient(verify=False) as client:  # 创建session
         tasks = []
