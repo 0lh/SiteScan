@@ -234,8 +234,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # custom
-logs/
-results/
 *.txt
 *.log
 *.db
