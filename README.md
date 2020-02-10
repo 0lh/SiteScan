@@ -13,6 +13,7 @@ SiteScan是一款探测网站存活概率的工具,在对批量目标网站( 域
 推荐使用python3.8.1，其他版本可能出现某些问题
 ```
 python3 scan.py --target urls.txt
+扫描结果保存路径在conf/config.py进行配置
 ```
 
 #### 多因素分析常见响应码
